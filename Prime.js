@@ -5,7 +5,7 @@ for(let i=1;i<=n;i++){
     factor++;
   }
 }
-if(factor==1){
+if(factor==2){
   console.log("it is prime");
 }
 else{
